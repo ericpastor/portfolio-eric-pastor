@@ -335,7 +335,7 @@ const Layout = () => {
             </Typography>
           </Box>
 
-          <Box sx={{ width: '70%', marginLeft: '20%', marginBottom: '20%' }}>
+          <Box sx={{ width: '80%', marginLeft: '20%', marginBottom: '20%' }}>
             <Grid
               container
               rowSpacing={1}
