@@ -446,7 +446,7 @@ const Layout = () => {
                       marginLeft: '10px',
                     }}
                   >
-                    http://localhost:3000/
+                    https://charming-tapioca-35e14a.netlify.app/
                   </Typography>
                 </Box>
               </Grid>
